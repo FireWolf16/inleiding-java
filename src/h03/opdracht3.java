@@ -1,0 +1,3 @@
+//een applicatie is een programma die buiten een webbrouwser en buiten een appletviewer kan worden uitgevoerd.//
+// Het maakt niet uit in welke programmertaal het is geschreven maar een applicatie geschreven in java heeft wel eenJVM (Java Virtual Machine) nodig om uitgevoerd te kunnen worden.//
+//Een applicatie kan gegevens uit bestanden lezen, gegevens naar bestanden schrijven en bestanden maken of verwijderen. een applet kan dat niet.//
