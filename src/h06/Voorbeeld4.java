@@ -15,7 +15,7 @@ public class Voorbeeld4 extends Applet {
         a = 8;
         b = 8;
         c = 3;
-        uitkomst = a + b / c;
+        uitkomst = (a + b) / c;
     }
 
     public void paint(Graphics g) {
