@@ -18,6 +18,7 @@ public class Voorbeeld807 extends Applet {
     }
 
     public void paint(Graphics g) {
+
         g.drawString("Het getal is " + getal, 50, 60 );
     }
 
