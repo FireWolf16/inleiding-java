@@ -105,7 +105,7 @@ public class Praktijkopdracht extends Applet {
             text2.setText("");
         }
     }
-    
+
     @Override
     public void paint(Graphics g) {
 
