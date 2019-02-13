@@ -20,8 +20,8 @@ public class Praktijkopdracht extends Applet {
         reset = new Button("reset");
         //----------------------------
         add(text);
-        add(antwoord);
         add(reset);
+        add(antwoord);
         //----------------------------
         text.addActionListener(new textListener());
         reset.addActionListener(new resetListener());
